@@ -77,9 +77,6 @@ Below is the assembled single-layer PCB prototype featuring the control unit, dr
 ## 📁 Repository Structure
 
 ```text
-├── design_files/
-│   ├── layout.pcb          # Native EDA layout files
-│   └── outputs/            # Gerber or PDF printable masks
 ├── assets/
 │   ├── pcb_layout_routing.png
 │   ├── copper_bottom_mask.png
