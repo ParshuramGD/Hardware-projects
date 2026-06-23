@@ -47,7 +47,7 @@ The heart of the circuit is the **NE555 Timer** configured as an astable multivi
 
 The PCB was designed using automated EDA layout tools with thick traces on the power lines to handle the motor's stall current safely.
 ### Schematic Diagram
-![PWM Motor Controller Schematic](assets/schematic.png)
+![PWM Motor Controller Schematic](assets/Schematic.png)
 
 ### 1. PCB Layout Routing (Top View)
 The layout separates the low-power timing control circuitry from the high-current motor driving path.
